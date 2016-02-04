@@ -1,2 +1,0 @@
-Variable Hoisting:
-var and let are different
