@@ -16,3 +16,17 @@ function outer() {
 }
 
 outer();
+
+
+Pre - ES6 variables are
+function scoped
+Function Hoisting
+// Function declaration
+function foo() {
+
+}
+
+// Function Expression
+var bar = function bar() {
+
+}
